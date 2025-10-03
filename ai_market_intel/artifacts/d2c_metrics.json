@@ -1,0 +1,293 @@
+{
+  "funnel_metrics": {
+    "overall_metrics": {
+      "total_campaigns": 50,
+      "total_spend_usd": 53564.64,
+      "total_revenue_usd": 232276.19,
+      "total_impressions": "1370647",
+      "total_clicks": "145560",
+      "total_installs": "39343",
+      "total_signups": "30049",
+      "total_first_purchases": "19235",
+      "total_repeat_purchases": "12938"
+    },
+    "conversion_rates": {
+      "ctr_percent": 10.619802181013783,
+      "install_rate_percent": 27.028716680406706,
+      "signup_rate_percent": 76.37699209516306,
+      "first_purchase_rate_percent": 64.0121135478718,
+      "repeat_purchase_rate_percent": 67.26280218351963
+    },
+    "revenue_metrics": {
+      "roas": 4.3363717183574835,
+      "cac_usd": 2.7847486353002338,
+      "ltv_usd": 12.075705224850534,
+      "ltv_cac_ratio": 4.336371718357484
+    },
+    "cost_metrics": {
+      "cpm_usd": 39.07982142739889,
+      "cpc_usd": 0.3679901071723001,
+      "cpi_usd": 1.3614782807615078,
+      "cps_usd": 1.7825764584511963
+    }
+  },
+  "channel_analysis": {
+    "Instagram Influencer": {
+      "campaigns": 13,
+      "total_spend_usd": 12494.050000000001,
+      "total_revenue_usd": 73824.23999999999,
+      "total_first_purchases": "4648",
+      "ctr_percent": 9.16025272143097,
+      "install_rate_percent": 30.471485129077642,
+      "signup_rate_percent": 90.62600665736068,
+      "first_purchase_rate_percent": 55.07109004739337,
+      "roas": 5.908751765840539,
+      "cac_usd": 2.6880486230636835
+    },
+    "Organic Search": {
+      "campaigns": 16,
+      "total_spend_usd": 16538.51,
+      "total_revenue_usd": 51781.35,
+      "total_first_purchases": "6287",
+      "ctr_percent": 9.10077542311774,
+      "install_rate_percent": 26.325091928569975,
+      "signup_rate_percent": 78.90106497916345,
+      "first_purchase_rate_percent": 61.49256651017214,
+      "roas": 3.130956174407489,
+      "cac_usd": 2.6305885159853664
+    },
+    "Meta Ads": {
+      "campaigns": 10,
+      "total_spend_usd": 8782.57,
+      "total_revenue_usd": 49629.65,
+      "total_first_purchases": "2766",
+      "ctr_percent": 13.860968222235623,
+      "install_rate_percent": 29.080078974667874,
+      "signup_rate_percent": 52.70425776754891,
+      "first_purchase_rate_percent": 60.393013100436676,
+      "roas": 5.65092564021693,
+      "cac_usd": 3.1751879971077366
+    },
+    "Google Ads": {
+      "campaigns": 11,
+      "total_spend_usd": 15749.51,
+      "total_revenue_usd": 57040.95,
+      "total_first_purchases": "5534",
+      "ctr_percent": 12.793449822130022,
+      "install_rate_percent": 23.354044189351093,
+      "signup_rate_percent": 81.1858744929611,
+      "first_purchase_rate_percent": 81.32255694342395,
+      "roas": 3.6217602960346067,
+      "cac_usd": 2.845954101915432
+    }
+  },
+  "seo_analysis": {
+    "by_category": {
+      "Fitness Gear": {
+        "avg_position": 24.380000000000003,
+        "avg_search_volume": 28133.8,
+        "avg_conversion_rate": 2.3689999999999998,
+        "opportunity_score": -958.412220236,
+        "campaigns": 10
+      },
+      "Supplements": {
+        "avg_position": 27.899999999999995,
+        "avg_search_volume": 24811.416666666668,
+        "avg_conversion_rate": 2.2416666666666667,
+        "opportunity_score": -995.5787699305553,
+        "campaigns": 12
+      },
+      "Astrology Services": {
+        "avg_position": 28.970000000000006,
+        "avg_search_volume": 25647.1,
+        "avg_conversion_rate": 2.579,
+        "opportunity_score": -1254.7492309730003,
+        "campaigns": 10
+      },
+      "Home Decor": {
+        "avg_position": 27.0,
+        "avg_search_volume": 31495.6,
+        "avg_conversion_rate": 2.488,
+        "opportunity_score": -1332.1378976,
+        "campaigns": 10
+      },
+      "Skin Care": {
+        "avg_position": 26.825000000000003,
+        "avg_search_volume": 27059.0,
+        "avg_conversion_rate": 3.4612499999999997,
+        "opportunity_score": -1575.7952400937502,
+        "campaigns": 8
+      }
+    },
+    "top_opportunities": [
+      [
+        "Fitness Gear",
+        {
+          "avg_position": 24.380000000000003,
+          "avg_search_volume": 28133.8,
+          "avg_conversion_rate": 2.3689999999999998,
+          "opportunity_score": -958.412220236,
+          "campaigns": 10
+        }
+      ],
+      [
+        "Supplements",
+        {
+          "avg_position": 27.899999999999995,
+          "avg_search_volume": 24811.416666666668,
+          "avg_conversion_rate": 2.2416666666666667,
+          "opportunity_score": -995.5787699305553,
+          "campaigns": 12
+        }
+      ],
+      [
+        "Astrology Services",
+        {
+          "avg_position": 28.970000000000006,
+          "avg_search_volume": 25647.1,
+          "avg_conversion_rate": 2.579,
+          "opportunity_score": -1254.7492309730003,
+          "campaigns": 10
+        }
+      ],
+      [
+        "Home Decor",
+        {
+          "avg_position": 27.0,
+          "avg_search_volume": 31495.6,
+          "avg_conversion_rate": 2.488,
+          "opportunity_score": -1332.1378976,
+          "campaigns": 10
+        }
+      ],
+      [
+        "Skin Care",
+        {
+          "avg_position": 26.825000000000003,
+          "avg_search_volume": 27059.0,
+          "avg_conversion_rate": 3.4612499999999997,
+          "opportunity_score": -1575.7952400937502,
+          "campaigns": 8
+        }
+      ]
+    ],
+    "summary": {
+      "total_categories": 5,
+      "avg_position": 27.057999999999996,
+      "total_search_volume": "1366974",
+      "avg_conversion_rate": 2.5789999999999997
+    }
+  },
+  "top_performers": {
+    "top_roas_campaigns": [
+      {
+        "campaign_id": "CAMP_048",
+        "channel": "Instagram Influencer",
+        "roas": 44.62055825473945,
+        "revenue_usd": 9367.64,
+        "spend_usd": 209.94
+      },
+      {
+        "campaign_id": "CAMP_044",
+        "channel": "Organic Search",
+        "roas": 28.47745294592896,
+        "revenue_usd": 9516.88,
+        "spend_usd": 334.19
+      },
+      {
+        "campaign_id": "CAMP_005",
+        "channel": "Instagram Influencer",
+        "roas": 25.69955220196749,
+        "revenue_usd": 7288.65,
+        "spend_usd": 283.61
+      },
+      {
+        "campaign_id": "CAMP_016",
+        "channel": "Meta Ads",
+        "roas": 21.908952272023257,
+        "revenue_usd": 9194.53,
+        "spend_usd": 419.67
+      },
+      {
+        "campaign_id": "CAMP_042",
+        "channel": "Instagram Influencer",
+        "roas": 14.708922981968875,
+        "revenue_usd": 6672.85,
+        "spend_usd": 453.66
+      }
+    ],
+    "top_conversion_campaigns": [
+      {
+        "campaign_id": "CAMP_016",
+        "channel": "Meta Ads",
+        "conversion_rate": 4.98,
+        "revenue_usd": 9194.53
+      },
+      {
+        "campaign_id": "CAMP_004",
+        "channel": "Instagram Influencer",
+        "conversion_rate": 4.9,
+        "revenue_usd": 9710.6
+      },
+      {
+        "campaign_id": "CAMP_021",
+        "channel": "Google Ads",
+        "conversion_rate": 4.81,
+        "revenue_usd": 9378.83
+      },
+      {
+        "campaign_id": "CAMP_041",
+        "channel": "Instagram Influencer",
+        "conversion_rate": 4.73,
+        "revenue_usd": 4914.4
+      },
+      {
+        "campaign_id": "CAMP_008",
+        "channel": "Meta Ads",
+        "conversion_rate": 4.66,
+        "revenue_usd": 4618.45
+      }
+    ],
+    "top_revenue_channels": {
+      "Instagram Influencer": 73824.23999999999,
+      "Google Ads": 57040.95,
+      "Organic Search": 51781.35
+    },
+    "top_roas_channels": {
+      "Instagram Influencer": 5.908751765840539,
+      "Meta Ads": 5.65092564021693,
+      "Google Ads": 3.6217602960346067
+    }
+  },
+  "insights": [
+    {
+      "title": "Strong Overall ROAS Performance",
+      "description": "The overall ROAS of 4.34 indicates healthy return on ad spend.",
+      "category": "Revenue Performance",
+      "confidence": 0.9,
+      "recommendation": "Continue current strategy and consider scaling successful campaigns."
+    },
+    {
+      "title": "Instagram Influencer Outperforms Other Channels",
+      "description": "Instagram Influencer shows ROAS of 5.91 vs Organic Search at 3.13.",
+      "category": "Channel Performance",
+      "confidence": 0.8,
+      "recommendation": "Increase budget allocation to Instagram Influencer and optimize Organic Search campaigns."
+    },
+    {
+      "title": "High SEO Opportunity in Fitness Gear",
+      "description": "Fitness Gear has high search volume (28,134) and good conversion rate (2.4%).",
+      "category": "SEO Optimization",
+      "confidence": 0.75,
+      "recommendation": "Focus SEO efforts on Fitness Gear to capture more organic traffic."
+    },
+    {
+      "title": "Healthy LTV:CAC Ratio",
+      "description": "LTV:CAC ratio of 4.3 indicates sustainable unit economics.",
+      "category": "Unit Economics",
+      "confidence": 0.85,
+      "recommendation": "Consider increasing acquisition spend to scale growth."
+    }
+  ],
+  "analysis_timestamp": "2025-09-26T10:13:01.791253"
+}

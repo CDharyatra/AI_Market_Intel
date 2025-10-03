@@ -1,0 +1,36 @@
+# AI Market Intelligence - Core Dependencies
+# Use pip-compile to generate requirements.txt with pinned versions:
+# pip-compile requirements.in
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+pyarrow>=12.0.0
+openpyxl
+
+# Data Acquisition
+requests>=2.31.0
+kaggle>=1.5.16
+kagglehub
+
+# Data Matching
+rapidfuzz>=3.0.0
+
+# AI/ML Libraries
+openai>=1.0.0
+google-generativeai>=0.3.0
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Reporting
+reportlab>=4.0.0
+
+# Web Interface
+streamlit>=1.28.0
+
+# Configuration
+python-dotenv>=1.0.0

@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+.env/
+
+# Environment Variables & API Keys
+# NOTE: .env is NOT gitignored for assignment submission purposes
+# IMPORTANT: Use placeholder values in .env, never commit real API keys!
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.key
+secrets.json
+
+
+# Logs
+*.log
+logs/
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# System Files
+*.tmp
+*.temp
+.cache/
+.pytest_cache/
+
+# Dependencies
+node_modules/
+.npm
+.yarn-integrity
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup Files
+*.bak
+*.backup
+*.old
